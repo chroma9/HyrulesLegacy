@@ -9,7 +9,7 @@ export function readFile(path: string): string {
 }
 
 /**
- * Write content to a file
+ * Write content to a file.
  * @param path Path to the file
  * @param content Content of file
  */
