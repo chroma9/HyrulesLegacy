@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Chroma9/HyrulesLegacy/issues"
   },
-  "homepage": "https://github.com/Chroma9/HyrulesLegacy#readme"
+  "homepage": "https://github.com/Chroma9/HyrulesLegacy#readme",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "chalk": "^4.1.0",
+    "eris": "^0.13.3",
+    "figlet": "^1.5.0",
+    "moment": "^2.27.0",
+    "nedb": "^1.8.0",
+    "typescript": "^3.9.7"
+  }
 }
