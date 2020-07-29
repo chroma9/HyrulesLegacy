@@ -5,3 +5,10 @@
 
 **Hyrule's Legacy** is a game within Discord taking place in the land of Hyrule. This game is under
 development at this time.
+
+### Release Objectives
+✅ Github Repository
+❎ System Interfaces
+❎ Database Configuration
+❎ Unique Species (with Perks!)
+
