@@ -10,5 +10,8 @@ development at this time.
 - ✅ Github Repository
 - ❎ System Interfaces
 - ❎ Database Configuration
-- ❎ Unique Species (with Perks!)
-
+- ❎ Unique Species
+- ❎ Map Locations
+- ❎ Environmental Elements
+- ❎ Species Traits
+- ❎ Unique Items
