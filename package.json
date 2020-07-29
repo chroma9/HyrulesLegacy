@@ -1,0 +1,19 @@
+{
+  "name": "hyrules-legacy",
+  "version": "0.0.0-alpha",
+  "description": "Zelda on Discord!",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chroma9/HyrulesLegacy.git"
+  },
+  "author": "Chroma9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chroma9/HyrulesLegacy/issues"
+  },
+  "homepage": "https://github.com/Chroma9/HyrulesLegacy#readme"
+}
