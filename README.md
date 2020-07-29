@@ -15,3 +15,12 @@ development at this time.
 - ❎ Environmental Elements
 - ❎ Species Traits
 - ❎ Unique Items
+
+### Game Mechanics
+Users will generate their characters based on information they provide. This includes things such
+as Species, Home, and Various others. Players will also, as the game develops, be able to create
+parties for travelling across the map and Discord. User accounts are consistent across servers.
+
+The game will focus on combat, mild narative exploration and the use of a stat system. These features
+were designed to resemble that of a **Dungeons & Dragons** like game with the system handling the wrath
+of dice rolling itself.
