@@ -7,11 +7,8 @@
 development at this time.
 
 ### Release Objectives
-✅ Github Repository
-
-❎ System Interfaces
-
-❎ Database Configuration
-
-❎ Unique Species (with Perks!)
+- ✅ Github Repository
+- ❎ System Interfaces
+- ❎ Database Configuration
+- ❎ Unique Species (with Perks!)
 
